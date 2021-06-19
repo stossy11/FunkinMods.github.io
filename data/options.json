@@ -1,0 +1,11 @@
+{
+     "DJFKKeys" : true
+    ,"preferredSave" : 0
+    ,"skipVictoryScreen" : true
+    ,"alwaysDoCutscenes" : true
+    ,"allowEditOptions" : true
+    ,"downscroll" : false
+    ,"useSaveDataMenu" : true
+    ,"useCustomInput" : false
+    ,"skipModifierMenu" : false
+}
